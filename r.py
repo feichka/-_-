@@ -169,6 +169,6 @@ while run:
             monster = Enemy(img_enemy, randint(80, win_width - 80), -40, 80, 50, randint(1, 5))
             monsters.add(monster)
 
-    time.delay(50)
+    time.delay(100)
 
 
